@@ -1,0 +1,1 @@
+Runtime类代表Java的运行时环境，每一个java程序都有一个与之对应的Runtime实例
